@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,30&height=180&section=header&text=TECHALBIA&fontSize=65&fontColor=00e5ff&fontAlignY=38&animation=fadeIn&desc=Innovate • Build • Scale%20&%20AI%20Solutions%20|%20Built%20for%20Scale&descSize=20&descColor=a78bfa&descAlignY=62" width="100%" />
+  <!-- Animated Header Banner with Previous Theme & Corrected Bullet Encoding -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,30&height=180&section=header&text=TECHALBIA&fontSize=65&fontColor=00e5ff&fontAlignY=38&animation=fadeIn&desc=Innovate%20%E2%80%A2%20Build%20%E2%80%A2%20Scale&descSize=20&descColor=a78bfa&descAlignY=62" width="100%" />
 
   <br><br>
 
@@ -22,7 +22,7 @@
 
 ## 🚀 <span style="color:#00e5ff;">Who We Are</span>
 
-At **TECHALBIA**, we bridge the gap between today’s operational challenges and tomorrow’s advanced technologies[cite: 1]. We are a dynamic team of engineers, data scientists, and developers delivering robust, scalable digital products and intelligent systems for businesses worldwide.
+At **TECHALBIA**, we bridge the gap between today’s operational challenges and tomorrow’s advanced technologies. We are a dynamic team of engineers, data scientists, and developers delivering robust, scalable digital products and intelligent systems for businesses worldwide.
 
 ---
 
