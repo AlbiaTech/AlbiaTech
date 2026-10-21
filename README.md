@@ -22,7 +22,7 @@
 
 ## 🚀 <span style="color:#00e5ff;">Who We Are</span>
 
-At **ALBIATECH**, we bridge the gap between today’s operational challenges and tomorrow’s advanced technologies[cite: 1]. We are a dynamic team of engineers, data scientists, and developers delivering robust, scalable digital products and intelligent systems for businesses worldwide.
+At **TECHALBIA**, we bridge the gap between today’s operational challenges and tomorrow’s advanced technologies[cite: 1]. We are a dynamic team of engineers, data scientists, and developers delivering robust, scalable digital products and intelligent systems for businesses worldwide.
 
 ---
 
